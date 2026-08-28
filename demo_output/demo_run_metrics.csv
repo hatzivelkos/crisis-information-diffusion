@@ -1,0 +1,10 @@
+"Metric","Value"
+"Initial misinformed agents","2"
+"Final misinformed agents","1"
+"Final misinformation prevalence","0.037037037037037035"
+"Peak misinformation prevalence","0.9629629629629629"
+"Time of peak misinformation","5"
+"Clearance time",
+"Post-peak clearance time","37"
+"Information-dominance time","15"
+"Terminal misinformation slope","-0.013668430335097001"
