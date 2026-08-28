@@ -22,7 +22,7 @@ Article DOI: `[TO BE ADDED]`
 The simulation data underlying the numerical results reported in the article
 are archived separately on Zenodo.
 
-Dataset DOI: `[ZENODO DOI TO BE ADDED]`
+Dataset DOI: [10.5281/zenodo.22150032](https://doi.org/10.5281/zenodo.22150032)
 
 ---
 
@@ -247,7 +247,7 @@ runs and are not launched automatically by this repository.
 Instead, the simulation outputs underlying the reported figures and tables are
 provided in the accompanying Zenodo dataset:
 
-> `[ZENODO DATASET LINK TO BE ADDED]`
+> https://doi.org/10.5281/zenodo.22150032
 
 This separation keeps the software repository compact while preserving access
 to the data required to reproduce the reported numerical analyses.
